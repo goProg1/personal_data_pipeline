@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS example_table (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255),
+    value NUMERIC,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

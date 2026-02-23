@@ -1,0 +1,19 @@
+postgres:
+  host: localhost
+  port: 5432
+  user: your_user
+  password: your_password
+  database: your_database
+
+snowflake:
+  user: YOUR_USER
+  password: YOUR_PASSWORD
+  account: YOUR_ACCOUNT
+  warehouse: YOUR_WAREHOUSE
+  database: YOUR_DATABASE
+  schema: PUBLIC
+
+aws:
+  access_key_id: YOUR_AWS_KEY
+  secret_access_key: YOUR_AWS_SECRET
+  region: us-east-1

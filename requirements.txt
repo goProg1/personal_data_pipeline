@@ -1,0 +1,13 @@
+# Data engineering stack
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+snowflake-connector-python
+apache-airflow
+boto3
+
+# Optional / for analysis
+matplotlib
+seaborn
+jupyterlab
